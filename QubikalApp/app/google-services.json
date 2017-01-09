@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "633793956168",
+    "firebase_url": "https://qubikalapp.firebaseio.com",
+    "project_id": "qubikalapp",
+    "storage_bucket": "qubikalapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633793956168:android:3ca4cc62ebefd3ff",
+        "android_client_info": {
+          "package_name": "sanbox.outsource.qubikalapp.com.qubikalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633793956168-1i2m4limoqkepaa35itfg75fdkka3ehs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sanbox.outsource.qubikalapp.com.qubikalapp",
+            "certificate_hash": "A3C695509CCCCAA96A021D22DEA2E57E36D147AE"
+          }
+        },
+        {
+          "client_id": "633793956168-80mfr08edavon8bbd36ifencpusph8o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD64a7DlxclKJ4Z4_PtJ9csjinZipfbfbI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633793956168-80mfr08edavon8bbd36ifencpusph8o8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
